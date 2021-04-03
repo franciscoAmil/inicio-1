@@ -61,6 +61,8 @@
                    </center>
     
                    <A href="http://www.ittehuacan.edu.mx">Ir a la pagina del tec</A><br>
+                   <A href="https://franciscoamil.github.io/formulario/">Ir al formulario</A><br>
+
                   
           
 </body>
