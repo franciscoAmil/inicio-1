@@ -61,7 +61,7 @@
                    </center>
     
                    <A href="http://www.ittehuacan.edu.mx">Ir a la pagina del tec</A><br>
-                   <A href="pagina2.html">Ir al formulario</A>
+                  
           
 </body>
 </html>
