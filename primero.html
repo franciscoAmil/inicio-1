@@ -53,7 +53,7 @@
                             <td>17361092</td>
                             <td>Francisco Amil Sandoval</td>
                             <td>Ing. Sistemas Computacionales</td>
-                            <td>7</td>
+                            <td>8</td>
                           </tr>
                          
     
